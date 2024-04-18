@@ -1,3 +1,3 @@
 # signal_protocol_demo
-npm install
+npm install\
 node index.ts
