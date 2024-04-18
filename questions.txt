@@ -1,0 +1,15 @@
+should the x3dh trigger when alice sends the first message or when she attempts to start a conversation?
+	if so what would bob use for the DH public key if he wants to respond? since Alice sends over the x3dh info not double ratchet info
+
+is our DH function correct? when calculating in x3dh
+
+is KDF function correct?
+
+what is the point of the associated data?
+
+are we supposed to have nonce / salt?
+
+what are we supposed to do with the private keys?
+
+is approach to generating ratchet keys correct?
+
